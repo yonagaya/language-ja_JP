@@ -4,8 +4,7 @@
     "type": "magento2-language",
     "description": "ja_JP language package.",
     "license": [
-        "OSL-3.0",
-        "AFL-3.0"
+        "proprietary"
     ],
     "config": {
         "sort-packages": true
